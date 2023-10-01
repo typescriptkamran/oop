@@ -111,3 +111,5 @@ const motor1 = new Motor()
 // warning Property 'age' does not exist on type 'Motor'
 console.log(person2.age)
 person2.greetings()
+
+
